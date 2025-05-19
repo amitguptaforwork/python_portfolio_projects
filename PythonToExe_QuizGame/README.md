@@ -59,6 +59,7 @@ NodeJS has similar functionality but the file size of EXE it creates is bigger!
 
 ## Usage
 
+- Make sure the quiz_data.json is in same folder as the exe. The exe file will read it.  
 - Run the executable (`quiz_game.exe`) from the command line or by double-clicking it.
 - Answer the questions presented in the terminal.
 - At the end of the quiz, your score will be displayed.
