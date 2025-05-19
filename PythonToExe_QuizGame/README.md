@@ -66,11 +66,12 @@ Additionally, it demonstrates how to convert a Python script into a standalone W
 
 ```plaintext
 PythonToExe_QuizGame/
-├── questions.json       # JSON file containing quiz questions and answers
+├── quiz_data.json       # JSON file containing quiz questions and answers
 ├── quiz_game.py         # Main Python script for the quiz game
 ├── README.md            # Project documentation
 └── dist/
     └── quiz_game.exe    # Generated Windows executable
+    ├── quiz_data.json   # JSON file containing quiz questions and answers
 ```
 
 ## License
