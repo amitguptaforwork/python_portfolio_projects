@@ -5,6 +5,9 @@ This project showcases a simple command-line quiz game developed in Python.
 It reads questions and answers from a JSON file and allows users to test their knowledge interactively.
 Additionally, it demonstrates how to convert a Python script into a standalone Windows executable using PyInstaller.
 
+**Learning**: It created a 7.8 MB file. Quite impressive.  
+NodeJS has similar functionality but the file size of EXE it creates is bigger!
+
 ## Features
 
 - Loads quiz questions and answers from a JSON file.
